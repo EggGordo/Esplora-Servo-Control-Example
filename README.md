@@ -2,7 +2,7 @@
 
 This program uses the Esplora board's slider to move a servo connected to a breadboard. 
 
-I used this [website](http://www.pighixxx.com/test/portfolio-items/esplora/?portfolioID=314#prettyPhoto) to find the specific pin out numbers for the Esplora
+I used this website (Link removed due to redirecting to fishy shit, will replace later) to find the specific pin out numbers for the Esplora
 
 # How it Works
 
